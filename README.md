@@ -1,4 +1,4 @@
-# [C-BRING-V1 Script License Agreement (Must Read!)](https://github.com/PUSCRIPTS/C-BRING-V1?tab=License-1-ov-file)
+# [C-BRING-V1 Script License Agreement (Must Read!)](https://github.com/PUSCRIPTS/C-BRING-V1?tab=License-1-ov-file](https://github.com/PUSCRIPTS/C-BRING-V1/tree/main?tab=License-1-ov-file)
 
 ## Description
 C-BRING-V1 is a free script designed for Roblox that allows you to cbring (kill people) in the game Ohio. This script works with any executor and is available for both phone and PC.
