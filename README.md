@@ -25,8 +25,8 @@ C-BRING-V1 is a free script designed for Roblox that allows you to cbring (kill 
 ## Support
 For support inquiries, please contact me via Discord:
 - **Display Name**: PinguinDEV
-- **Username**: 4d04
-- [PinguinDEV Discord](https://www.discord.gg/kB3mbvhR2C)
+- **Username**: mxhakon
+- [PinguinDEV Discord](https://www.discord.gg/pinguindev)
 
 ## Updates
 Check Discord for updates regarding script status (online, updating, or patched).
